@@ -14,4 +14,4 @@ The Toolify homepage provides users with a sleek, modern design that highlights 
 
 To view the live version of the webpage, [click here](https://toolify-page.netlify.app/).
 
-![Toolify Homepage](Toolify%20-%20Online%20widget%20Home%20page.png)
+![Toolify Homepage](Toolify.png)
